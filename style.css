@@ -54,6 +54,7 @@ li a {
     font-size: 80%;
     font-style: normal;
      line-height:0px;
+     margin-top: -50px;
 
     
 }
@@ -86,4 +87,8 @@ li a {
 {
     position: relative;
     left: 330px;
+}
+.espace
+{
+    margin-top: 100px;
 }
